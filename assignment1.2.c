@@ -7,6 +7,6 @@ int main()
     if (a>b)
     printf("%d is maximum",a);
     else
-    printf("%d is minimum",b);
+    printf("%d is maximum",b);
     return 0;
 }
